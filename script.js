@@ -48,4 +48,5 @@ function multiplicar() {
 function limpar(){
     document.getElementById('primeiroNumero').value = "0";
     document.getElementById('segundoNumero').value = "0";
+    result.innerText = "Resultado"
 }
